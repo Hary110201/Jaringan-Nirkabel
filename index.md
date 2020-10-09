@@ -1,7 +1,8 @@
-   #PENSINYALAN
+#PENSINYALAN
+
 
 ##Sinyal RF
-  **RF (Radio Frekuensi)** adalah komponen yang dapat mendeteksi sinyal
+   **RF (Radio Frekuensi)** adalah komponen yang dapat mendeteksi sinyal
 gelombang elektromagnetik digunakan oleh sistem komunikasi untuk mengirim
 informasi melalui udara dari satu titik ke titik lainnya yang merambat di antara
 antena pemancar pengirim dan penerima.
