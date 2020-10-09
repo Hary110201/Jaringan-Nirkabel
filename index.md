@@ -10,6 +10,24 @@ Radio Frekuensi mempunyai 2 perangkat elektronik untuk mengirimkan sinyal gelomb
 
 ![Image](RF.jpg)
 
+## Infrared
+
+![Image](infra.jpg)
+
+ **Infrared** atau yang lazim dikenal dengan infra merah merupakan sinar elektromagnetik yang memiliki panjang gelombang lebih dari cahaya yang terlihat, yakni antara 700 nm dan 1 mm. Sinar infrared adalah cahaya yang tidak terlihat atau tak tertangkap mata. Apabila dilihat dengan menggunakan spektroskop cahaya maka radiasi dari sinar infrared akan terlihat pada spektrum elektromagnet dengan panjang gelombang yang berada di atas panjang gelombang cahaya merah.
+
+Dengan adanya panjang gelombang ini menyebabkan sinar infrared tidak tertangkap mata, tetapi radiasi dari panas yang ditimbulkan masih dapat terdeteksi.
+
+Berikut ini adalah kelebihan dan kekurangan dari infrared:
+* Kelebihan infrared bidang komunikasi.
+* Tranfer data dengan memanfaatkan sinar infrared bisa dilakukan kapan saja karena infrared tidak memerlukan kehadiran sinyal dalam melakukan proses transfer data.
+* Transfer data melalui infrared cenderung mudah dan sederhana.
+* Transfer data melalui ponsel bahkan tidak terkena biaya.
+* Kekurangan infrared bidang komunikasi:
+* Transfer data yang memanfaatkan sinar infrared mengharuskan kedua lubang infrared yang berhadapan. Hal ini dinilai cukup menyulitkan dan merepotkan.
+* Infrared sangat berbahaya bagi mata. Harus bisa diantisipasi supaya sinar infrared tidak terkena mata.
+* Transfer data melalui infrared cenderung lebih lambat bila dibanding dengan media transfer data yang lain seperti bluetooth.
+
 ## Bluetooth
 
 ![Image](BL.png)
