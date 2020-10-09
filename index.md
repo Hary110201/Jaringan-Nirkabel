@@ -9,6 +9,6 @@ antena pemancar pengirim dan penerima.
 sinyal gelombang elektromagnetik yang terdapat pada perangkat _transmitter_ dan
 kemudian untuk menerima sinyal gelombang elektromagnetik tersebut yang
 terdapat pada perangkat _receiver_. 
-![Image]()
+![Image](RF.jpg)
 
 
