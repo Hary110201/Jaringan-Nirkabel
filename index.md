@@ -1,4 +1,4 @@
-# PENSINYALAN
+# Transmisi Sinyal
 
 
 ## Sinyal RF
