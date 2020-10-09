@@ -1,19 +1,17 @@
+   #PENSINYALAN
+
+##Sinyal RF
+  **RF (Radio Frekuensi)** adalah komponen yang dapat mendeteksi sinyal
+gelombang elektromagnetik digunakan oleh sistem komunikasi untuk mengirim
+informasi melalui udara dari satu titik ke titik lainnya yang merambat di antara
+antena pemancar pengirim dan penerima
+  Radio Frekuensi mempunyai 2 perangkat elektronik untuk mengirimkan
+sinyal gelombang elektromagnetik yang terdapat pada perangkat _transmitter_ dan
+kemudian untuk menerima sinyal gelombang elektromagnetik tersebut yang
+terdapat pada perangkat _receiver_. 
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpic-microcontroller.com%2F433mhz-radio-frequency-rf-transmitter-receiver-using-pic12f1822%2F&psig=AOvVaw1OmSS98WGsAGQvzf7H77Cs&ust=1602317977840000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjanemJp-wCFQAAAAAdAAAAABAG)
+
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Hary110201/Pesinyalan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
